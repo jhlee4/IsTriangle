@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\vs\Workspace\IsTriangle\IsTriangle\bin\IsTriangle.dll
+C:\Users\user\Desktop\vs\Workspace\IsTriangle\IsTriangle\bin\IsTriangle.pdb
+C:\Users\user\Desktop\vs\Workspace\IsTriangle\IsTriangle\obj\Debug32\IsTriangle.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\vs\Workspace\IsTriangle\IsTriangle\obj\Debug32\IsTriangle.dll
+C:\Users\user\Desktop\vs\Workspace\IsTriangle\IsTriangle\obj\Debug32\IsTriangle.pdb
